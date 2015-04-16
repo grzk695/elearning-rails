@@ -1,3 +1,11 @@
 == README
 
+=== Website
 http://rails-elearning.herokuapp.com/
+
+=== Functions
+- Adding courses
+- Adding lessons to course
+- Adding test to lesson
+- Adding attachements to lessons
+- Videochat for users
